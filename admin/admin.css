@@ -1,0 +1,45 @@
+h1 {
+  font-family: "Salsa", cursive;
+}
+
+.new-project {
+  width: 100px;
+  height: 30px;
+  background-color: #066dfd;
+  border-radius: 3px;
+  border: none;
+  color: white;
+  border: none;
+}
+
+table {
+  margin-top: 20px;
+  border: none;
+}
+
+/* button {
+  height: 35px;
+  width: 35px;
+} */
+tr:nth-child(even) {
+  background-color: rgb(220, 220, 220);
+}
+
+#updateProject {
+  background-color: #408558;
+  color: white;
+  border-radius: 3px;
+  border: none;
+  height: 30px;
+  width: 65 px;
+}
+
+#deleteProject {
+  background-color: #dc3545;
+  color: white;
+  border: none;
+  border-radius: 3px;
+  height: 30px;
+  width: 65px;
+  margin-left: 5px;
+}
